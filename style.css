@@ -1,0 +1,8 @@
+body{
+    background-size: 70%;
+}
+#image{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
