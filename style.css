@@ -1,8 +1,19 @@
 body{
-    background-size: 70%;
+	background-position-x: left;
+	background-position-y: top;
+	background-size: 70%;
+	overflow: hidden;
 }
-#image{
-    position: absolute;
-    top: 0;
-    left: 0;
+#Canvas{
+	background-position-x: left;
+	background-position-y: top;
+}
+#instruction{
+	color: white;
+}
+#instruction2, #score2, #score-text2{
+	color: black;
+}
+#score, #score-text{
+	color: white;
 }
